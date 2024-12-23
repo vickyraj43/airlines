@@ -1,0 +1,17 @@
+2024-12-19 19:06:15 : undefined : error : Something went wrong
+2024-12-19 19:06:59 : undefined : error : Something went wrong
+2024-12-19 19:08:39 : undefined : error : Something went wrong
+2024-12-19 19:08:53 : undefined : error : Something went wrong
+2024-12-19 19:21:16 : undefined : error : Something went wrong
+2024-12-19 19:34:20 : undefined : error : Something went wrong
+2024-12-19 19:35:00 : undefined : error : Something went wrong
+2024-12-19 19:35:21 : undefined : error : Something went wrong
+2024-12-19 19:37:23 : undefined : error : Something went wrong this.model.create is not a function
+2024-12-19 19:58:19 : undefined : error : Something went wrong
+2024-12-19 20:03:09 : undefined : error : Something went wrong
+2024-12-19 20:05:03 : undefined : error : Something went wrong database "Airlines" does not exist
+2024-12-19 20:06:15 : undefined : error : Something went wrong database "Airlines" does not exist
+2024-12-19 20:11:32 : undefined : error : Something went wrong database "Airplanes" does not exist
+2024-12-19 20:23:20 : undefined : error : Something went wrong Validation error: Validation isAlphanumeric on modelNumber failed
+2024-12-19 20:23:45 : undefined : error : Something went wrong column "modelNumber" of relation "Airplanes" does not exist
+2024-12-19 20:24:03 : undefined : error : Something went wrong column "modelNumber" of relation "Airplanes" does not exist
